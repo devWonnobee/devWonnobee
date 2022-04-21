@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devWonnobee
-- 👀 I’m interested in game development and app development.
+- 👀 I’m interested in game development and mobile app development.
 - 🌱 I’m currently learning c# programming for game development and nodejs for applications.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
