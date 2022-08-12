@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devWonnobee
 - 👀 I’m interested in game development and mobile app development.
 - 🌱 I’m currently learning c# programming for game development and nodejs for applications.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on making games and mobile application.
+- 📫 My email address is dev.micsaltat@gmail.com
 
 <!---
 devWonnobee/devWonnobee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
